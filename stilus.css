@@ -1,0 +1,43 @@
+table {
+    border: gray solid;
+    border-radius: 2%;
+}
+
+table td {
+    border-radius: 10%;
+    background-color: lavender;
+    height: 50px;
+    width: 50px;
+    border-style: outset; 
+    border-width: 0px 2px 2px 0px;
+    text-align:center;
+    color: darkblue;
+    border-color: blue;
+} 
+
+.szin1 {
+    background-color: rgb(185, 186, 253);
+    color: darkblue;
+    text-align: left;
+    border-color: blue;
+}
+
+.szin2 {
+    background-color: lightgray;
+    color: darkbluevég
+    text-align:center
+    
+}
+
+.szin3 {
+    color: red;
+    text-align:center
+}
+
+.szin4 {
+    background-color: rgb(155, 156, 253);
+    color: darkblue;
+    text-align:center
+}
+
+
